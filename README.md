@@ -1,0 +1,2 @@
+# tradingBot
+telegram @Vldraidbot
